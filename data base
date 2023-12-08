@@ -1,0 +1,34 @@
+
+CREATE TABLE Diaxeiristis (
+  username varchar(25) NOT NULL,
+  password varchar(25) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO Diaxeiristis  VALUES
+('admin', 'admin');
+
+CREATE TABLE Diasvstis (
+  username varchar(25) NOT NULL,
+  password varchar(25) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO Diasvstis  VALUES
+('rescuer', 'rescuer');
+
+CREATE TABLE Politis (
+  username varchar(40) NOT NULL,
+  password varchar(40) NOT NULL,
+  phone_number int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO Politis  VALUES
+('Politis1', '1',  6911111111),
+('Politis2', '2',  6911111112),
+('Politis3', '3',  6911111113),
+('Politis4', '4',  6911111114),
+('Politis5', '5',  6911111115),
+('Politis6', '6',  6911111116),
+('Politis7', '7',  6911111117),
+('Politis8', '8',  6911111118),
+('Politis9', '9',  6911111119),
+('Politis10', '10',  6911111110);
