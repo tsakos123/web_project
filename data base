@@ -42,7 +42,7 @@ VALUES
     (18, 'Sardines', 5),
     (19, 'Canned corn', 5),
     (20, 'Bread', 5),
-    (21, 'Chocolate', 5);
+    (21, 'Chocolate', 5),
     (22, 'Men Sneakers', 7),
     (23, 'Test Product', 9),
     (24, 'Test Val', 14),
@@ -50,7 +50,7 @@ VALUES
     (26, 'Croissant', 5),
     (28, '', 10),
     (29, 'Biscuits', 5),
-    (30, 'Bandages', 16);
+    (30, 'Bandages', 16),
     (31, 'Disposable gloves', 16),
     (32, 'Gauze', 16),
     (33, 'Antiseptic', 16),
@@ -102,7 +102,7 @@ VALUES
     (79, '', 10),
     (80, '', 10),
     (81, '', 10),
-    (82, '', 10);
+    (82, '', 10),
     (83, 't22', 9),
     (84, 'water', 6),
     (85, 'Coca Cola', 6),
@@ -115,11 +115,11 @@ VALUES
     (92, 'Pocket Knife', 23),
     (93, 'Water Disinfection Tablets', 16),
     (94, 'Radio', 27),
-    (95, 'Kitchen appliances', 14);
+    (95, 'Kitchen appliances', 14),
     (96, 'Winter hat', 28),
     (97, 'Winter gloves', 28),
     (98, 'Scarf', 28),
-    (99, 'Thermos', 28);
+    (99, 'Thermos', 28),
 (100,'Tea',6),
 (101,'Dog Food',29 ),
 (102,'Cat Food', 29),
@@ -163,7 +163,7 @@ VALUES
     (20, 'type', 'white'),
     (21, 'weight', '100g'),
     (21, 'type', 'milk chocolate'),
-    (21, 'brand', 'ION');
+    (21, 'brand', 'ION'),
     (22, 'size', '44'),
     (23, 'weight', '500g'),
     (23, 'pack size', '12'),
@@ -173,7 +173,7 @@ VALUES
     (26, 'calories', '200'),
     (28, '', ''),
     (29, '', ''),
-    (30, '', '25 pcs');
+    (30, '', '25 pcs'),
     (31, '', '100 pcs'),
     (32, '', ''),
     (33, '', '250ml'),
@@ -192,21 +192,21 @@ VALUES
     (41, 'stock ', '500'),
     (41, 'scent', 'aloe'),
     (42, 'stock', '500'),
-    (43, 'stock', '250');
+    (43, 'stock', '250'),
     (44, 'stock', '200'),
     (45, 'stock', '200'),
     (46, 'stock', '2000'),
     (46, 'dosage', '500mg'),
     (47, 'stock ', '10'),
-    (47, 'dosage', '200mg');
-    (82, 'ghw56', 'twhwhrwh');
+    (47, 'dosage', '200mg'),
+    (82, 'ghw56', 'twhwhrwh'),
     (83, 'wtwty', 'wytwty'),
     (84, '', ''),
     (85, 'Volume', '500ml'),
     (86, 'volume', '75ml'),
     (87, 'duration', '7 hours'),
     (88, 'volume', '250ml'),
-    (89, 'material', 'silicone');
+    (89, 'material', 'silicone'),
     (90, 'weight', '400gr'),
     (91, 'weight', '23,5gr'),
     (92, 'Number of different tools', '3'),
@@ -217,11 +217,11 @@ VALUES
     (93, 'Suggested for', 'Everyone except pregnant women'),
     (94, 'Power', 'Batteries'),
     (94, 'Frequencies Range', '3 kHz - 3000 GHz'),
-    (95, '', '(scrubbers, rubber gloves, kitchen detergent, laundry soap)');
+    (95, '', '(scrubbers, rubber gloves, kitchen detergent, laundry soap)'),
     (96, '', ''),
     (97, '', ''),
     (98, '', ''),
-    (99, '', '');
+    (99, '', ''),
 (100,'volume','500ml'),
 (101,'volume','500g'),
 (102,'volume','500g'),
