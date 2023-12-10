@@ -148,7 +148,18 @@ VALUES
 (125,'Bandages',35 ),
 (126,'Betadine',35 ),
 (127,'Cotton Wool',35 ),
-(128,'Crackers',5 );
+(128,'Crackers',5 ),
+(129,'Sanitary Pads',21 ),
+(130,'Sanitary Wipes',21 ),
+(131,'Electrolytes',16 ),
+(132,'Pain Killers',16 ),
+(133,'Flashlight',23 ),
+(134,'Juice',6 ),
+(135,'Toilet Paper',21 ),
+(136,'Stelilized Saline',16 ),
+(137,'Biscuits',5 ),
+(138,'Antihistamines',16 ),
+(139,'Instant Pancake Mix',5 );
 
 INSERT INTO details (item_id, detail_name, detail_value)
 VALUES 
@@ -252,7 +263,22 @@ VALUES
 (126,'Povidone iodine 10%','240 ml'),
 (127,'100% Hydrofile','70 gr'),
 (128,'Quantity per package','10'),
-(128,'Packages','2');
+(128,'Packages','2'),
+(129,'Piece','10 pieces'),
+(129,'',''),
+(129,'',''),
+(130,'Pank','10 packs'),
+(131,'Packet of pills','20 pills'),
+(132,'Packet of pills','20 pills'),
+(133,'Pieces','1'),
+(133,'',''),
+(134,'Volume','500 ml'),
+(135,'Rolls','1 roll'),
+(135,'',''),
+(136,'Volume','100 ml'),
+(137,'Packet','1 Packet'),
+(138,'Pills','10 pills'),
+(139,'','');
 
 INSERT INTO Politis  VALUES
 ('Politis1', '1',  6911111111),
